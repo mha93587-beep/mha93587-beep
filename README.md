@@ -9,19 +9,19 @@
 
   <!-- Dynamic Animated Typing Header -->
   <a href="https://github.com/mha93587-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=65&lines=%E2%9A%A1+Full-Stack+AI+%26+Automation+Architect;%F0%9F%A4%96+Building+Autonomous+Bots+%26+Scrapers;%F0%9F%A7%A0+LLM+Engines+%26+Vision+Pipelines;%F0%9F%94%A5+Daily+Committer+%26+Fast+Shipper" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=65&lines=%E2%9A%A1+Full-Stack+AI+%26+Automation+Architect;%F0%9F%94%A5+606%2B+Contributions+in+the+Last+Year;%F0%9F%A4%96+Building+Autonomous+Bots+%26+Scrapers;%F0%9F%A7%A0+LLM+Engines+%26+Vision+Pipelines;%F0%9F%9A%80+Relentless+Daily+Committer+%26+Builder" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <b>Crafting autonomous agents, high-concurrency crawlers, and AI-powered intelligence systems.</b>
   </p>
 
-  <!-- Badges -->
+  <!-- Badges with 606 Contributions Highlight -->
   <p align="center">
+    <img src="https://img.shields.io/badge/CONTRIBUTIONS-606%20IN%20LAST%20YEAR-00E676?style=for-the-badge&logo=github&logoColor=white" alt="606 Contributions" />
     <a href="https://github.com/mha93587-beep"><img src="https://komarev.com/ghpvc/?username=mha93587-beep&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
     <img src="https://img.shields.io/badge/REPOSITORIES-60%2B-8a2be2?style=for-the-badge&logo=github" alt="Repos" />
-    <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-00C9FF?style=for-the-badge" alt="Focus" />
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-00E676?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/COMMIT%20RATE-DAILY%20ACTIVE-FF9800?style=for-the-badge&logo=git" alt="Commit Rate" />
   </p>
 
 </div>
@@ -33,14 +33,14 @@
 ```yaml
 Role: Full-Stack AI & Automation Architect
 Location: India 🇮🇳
-Passion: Autonomous Agents, AI Automation, Distributed Crawlers
+Annual_Activity: 606+ contributions in the last year 🔥
+Commit_Discipline: Daily active committer & fast shipper
 Core_Focus: LLMs (Gemini, OpenAI), Streamlit, Telegram Bot Ecosystems
-Status: 🚀 Relentlessly committing, building, and shipping production code every single day
 Philosophy: "If a task takes more than 2 manual repetitions, it deserves an autonomous script."
 ```
 
-- 🔭 **What I Build:** High-speed web scraping engines, automated Telegram bots, and AI-driven document/magazine publishing pipelines.
-- ⚡ **Daily Committer:** 60+ public projects and automated workflows deployed across cloud & mobile Linux setups.
+- ⚡ **606+ Annual Contributions:** Dedicated daily builder with sustained commit activity across 60+ open-source tools, bots, and crawlers.
+- 🔭 **What I Build:** High-speed web scraping engines, automated Telegram dispatchers, and AI-driven document/magazine publishing pipelines.
 - 🎯 **Current Flagship:** **[AryaCA](https://github.com/mha93587-beep/AryaCA)** — Daily current affairs intelligence & automated bilingual MCQ engine with Gemini Vision.
 - 💡 **Open For:** Collaborations on AI agents, automation pipelines, and innovative developer tools.
 
