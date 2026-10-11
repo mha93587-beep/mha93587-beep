@@ -1,13 +1,15 @@
 <div align="center">
 
   <!-- Avatar Logo -->
-  <img src="https://raw.githubusercontent.com/mha93587-beep/mha93587-beep/main/assets/avatar.jpg" width="130" height="130" style="border-radius: 50%; box-shadow: 0 0 25px #00f2fe;" alt="Profile Logo" />
+  <a href="https://github.com/mha93587-beep">
+    <img src="https://raw.githubusercontent.com/mha93587-beep/mha93587-beep/main/assets/avatar.jpg" width="135" height="135" style="border-radius: 50%; box-shadow: 0 0 25px #00f2fe;" alt="Profile Logo" />
+  </a>
 
   <br/><br/>
 
-  <!-- Typing SVG Header -->
+  <!-- Dynamic Animated Typing Header -->
   <a href="https://github.com/mha93587-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=65&lines=%E2%9A%A1+Full-Stack+AI+%26+Automation+Architect;%F0%9F%A4%96+Building+Autonomous+Bots+%26+Scrapers;%F0%9F%A7%A0+LLM+Engines+%26+Vision+Intelligence;%F0%9F%94%A5+Daily+Committer+%26+Fast+Shipper" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=65&lines=%E2%9A%A1+Full-Stack+AI+%26+Automation+Architect;%F0%9F%A4%96+Building+Autonomous+Bots+%26+Scrapers;%F0%9F%A7%A0+LLM+Engines+%26+Vision+Pipelines;%F0%9F%94%A5+Daily+Committer+%26+Fast+Shipper" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -28,7 +30,14 @@
 
 ### 👨‍💻 About Me
 
-
+```yaml
+Role: Full-Stack AI & Automation Architect
+Location: India 🇮🇳
+Passion: Autonomous Agents, AI Automation, Distributed Crawlers
+Core_Focus: LLMs (Gemini, OpenAI), Streamlit, Telegram Bot Ecosystems
+Status: 🚀 Relentlessly committing, building, and shipping production code every single day
+Philosophy: "If a task takes more than 2 manual repetitions, it deserves an autonomous script."
+```
 
 - 🔭 **What I Build:** High-speed web scraping engines, automated Telegram bots, and AI-driven document/magazine publishing pipelines.
 - ⚡ **Daily Committer:** 60+ public projects and automated workflows deployed across cloud & mobile Linux setups.
@@ -41,11 +50,11 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 🚀 **[AryaCA](https://github.com/mha93587-beep/AryaCA)** |    | Daily automated Current Affairs & Exam MCQ generator for Indian competitive exams. Builds bilingual MCQs and printable A4 magazines. |
-| 🤖 **[ai-model-tracker-bot](https://github.com/mha93587-beep/ai-model-tracker-bot)** |    | Real-time AI model benchmark tracker with automatic Telegram broadcasting and interactive control dashboard. |
-| ⚡ **[stress-test-dashboard](https://github.com/mha93587-beep/stress-test-dashboard)** |    | High-throughput asynchronous load tester with live WebSocket metrics, latency gauges, and visual telemetry. |
-| 📚 **[bseb-class12th-pyq-telegram-bot](https://github.com/mha93587-beep/bseb-class12th-pyq-telegram-bot)** |    | Automated educational paper crawler and Telegram channel dispatcher with one-click cloud deployment. |
-| 📱 **[antigravity-ide-termux-cli](https://github.com/mha93587-beep/antigravity-ide-termux-cli-one--click-install)** |    | Zero-friction, 1-click autonomous developer workspace setup tailored for mobile Android environments. |
+| 🚀 **[AryaCA](https://github.com/mha93587-beep/AryaCA)** | `Python` `Gemini Vision` `PDF Engine` | Daily automated Current Affairs & Exam MCQ generator for Indian competitive exams. Builds bilingual MCQs and printable A4 magazines. |
+| 🤖 **[ai-model-tracker-bot](https://github.com/mha93587-beep/ai-model-tracker-bot)** | `Python` `Streamlit` `Telegram API` | Real-time AI model benchmark tracker with automatic Telegram broadcasting and interactive control dashboard. |
+| ⚡ **[stress-test-dashboard](https://github.com/mha93587-beep/stress-test-dashboard)** | `Python` `Asyncio` `Streamlit` | High-throughput asynchronous load tester with live WebSocket metrics, latency gauges, and visual telemetry. |
+| 📚 **[bseb-class12th-pyq-telegram-bot](https://github.com/mha93587-beep/bseb-class12th-pyq-telegram-bot)** | `Python` `Scraper` `Telegram` | Automated educational paper crawler and Telegram channel dispatcher with one-click cloud deployment. |
+| 📱 **[antigravity-ide-termux-cli](https://github.com/mha93587-beep/antigravity-ide-termux-cli-one--click-install)** | `Shell` `Linux` `Termux` | Zero-friction, 1-click autonomous developer workspace setup tailored for mobile Android environments. |
 
 ---
 
